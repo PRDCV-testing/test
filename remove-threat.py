@@ -1,4 +1,4 @@
-#by_nam_pham_tuan_deptrai
+#by_nam_pham_tuan_deptrai_khongthedeptraihon
 #!/usr/bin/python3
 # Copyright (C) 2015-2022, Wazuh Inc.
 # All rights reserved.
