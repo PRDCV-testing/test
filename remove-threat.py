@@ -1,4 +1,4 @@
-#by_nam_pham
+#by_nam_pham_tuan
 #!/usr/bin/python3
 # Copyright (C) 2015-2022, Wazuh Inc.
 # All rights reserved.
